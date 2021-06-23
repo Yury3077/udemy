@@ -1,3 +1,5 @@
 dcdcdcvvvvvv
 def foo:
 	return 1
+foo()
+print
