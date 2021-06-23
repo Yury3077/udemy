@@ -1,1 +1,3 @@
 dcdcdcvvvvvv
+def foo:
+	return 1
