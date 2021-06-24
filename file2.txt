@@ -3,3 +3,6 @@ def foo:
 	return 1
 foo()
 print
+
+
+if __name__=="__main__":
