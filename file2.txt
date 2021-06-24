@@ -6,3 +6,5 @@ print
 
 
 if __name__=="__main__":
+	foo()
+"запуск функции от user2"
